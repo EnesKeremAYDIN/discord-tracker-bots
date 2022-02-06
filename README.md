@@ -1,12 +1,12 @@
 # Contents:
-* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers)
-  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers)
-  * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-trackers)
-  * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-trackers)
-  * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-trackers)
-  * [TRY (₺)](https://eneskeremaydin.com.tr/discord-tracker-bots#try--price-trackers)
-* [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-trackers)
-* [Gas Fee Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#gas-fee-trackers)
+* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (55)
+  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (35)
+  * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-trackers) (5)
+  * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-trackers) (5)
+  * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-trackers) (5)
+  * [TRY (₺)](https://eneskeremaydin.com.tr/discord-tracker-bots#try--price-trackers) (5)
+* [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-trackers) (5)
+* [Gas Fee Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#gas-fee-trackers) (7)
 * [Whale Tracker (Whale Movements Alert) Bot](https://eneskeremaydin.com.tr/discord-tracker-bots#whale-tracker-whale-movements-alert) (Very soon)
 
 # Discord Tracker Bots
@@ -101,7 +101,7 @@
 
 ***
 
-### Network Gas Fee Trackers:
+### Gas Fee Trackers:
 * [Invite Ethereum Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700767548866591) | [Ethereum Gas Fee Tracker on Top.gg](https://top.gg/bot/933700767548866591) | (_Powered by Etherscan.io APIs_)
 * [Invite Binance Smart Chain Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700773936771072) | [Binance Smart Chain Gas Fee Tracker on Top.gg](https://top.gg/bot/933700773936771072) | (_Powered by Bscscan.com APIs_)
 * [Invite Polygon Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700780249186384) | [Polygon Gas Fee Tracker on Top.gg](https://top.gg/bot/933700780249186384) | (_Powered by Polygonscan.com APIs_)
