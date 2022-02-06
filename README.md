@@ -3,7 +3,6 @@
   * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers)
   * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-trackers)
   * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-trackers)
-  * [JPY (¥)](https://eneskeremaydin.com.tr/discord-tracker-bots#jpy--price-trackers)
   * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-trackers)
   * [TRY (₺)](https://eneskeremaydin.com.tr/discord-tracker-bots#try--price-trackers)
 * [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-trackers)
@@ -27,13 +26,6 @@
 * [Invite Binance Coin (BNB) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939596337152937988) | [Binance Coin (BNB) Price (USD) Tracker on Top.gg](https://top.gg/bot/939596337152937988)
 * [Invite Avalanche (AVAX) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939596491746599023) | [Avalanche (AVAX) Price (USD) Tracker on Top.gg](https://top.gg/bot/939596491746599023)
 * [Invite Solana (SOL) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939662285419450378) | [Solana (SOL) Price (USD) Tracker on Top.gg](https://top.gg/bot/939662285419450378)
-
-#### JPY (¥) Price Trackers: 
-* [Invite Bitcoin (BTC) Price (JPY) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939476772947394580) | [Bitcoin (BTC) JPY Price Tracker on Top.gg](https://top.gg/bot/939476772947394580)
-* [Invite Ethereum (ETH) Price (JPY) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939528348558835772) | [Ethereum (ETH) Price (USD) Tracker on Top.gg](https://top.gg/bot/939528348558835772)
-* [Invite Binance Coin (BNB) Price (JPY) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939596346988576820) | [Binance Coin (BNB) Price (USD) Tracker on Top.gg](https://top.gg/bot/939596346988576820)
-* [Invite Avalanche (AVAX) Price (JPY) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939596510558027846) | [Avalanche (AVAX) Price (USD) Tracker on Top.gg](https://top.gg/bot/939596510558027846)
-* [Invite Solana (SOL) Price (JPY) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939662542287011860) | [Solana (SOL) Price (USD) Tracker on Top.gg](https://top.gg/bot/939662542287011860)
 
 #### RUB (₽) Price Trackers: 
 * [Invite Bitcoin (BTC) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939476778710335589) | [Bitcoin (BTC) RUB Price Tracker on Top.gg](https://top.gg/bot/939476778710335589)
