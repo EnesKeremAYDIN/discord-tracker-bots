@@ -1,6 +1,6 @@
 # Contents:
-* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (55)
-  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (35)
+* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (58)
+  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (38)
   * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-trackers) (5)
   * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-trackers) (5)
   * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-trackers) (5)
@@ -77,6 +77,9 @@
 * [Invite TRON (TRX) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=938150729477136484) | [TRON (TRX) Price (USD) Tracker on Top.gg](https://top.gg/bot/938150729477136484)
 * [Invite Monero (XMR) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=938150792295223355) | [Monero (XMR) Price (USD) Tracker on Top.gg](https://top.gg/bot/938150792295223355)
 * [Invite Decentraland (MANA) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=938150844468183071) | [Decentraland (MANA) Price (USD) Tracker on Top.gg](https://top.gg/bot/938150844468183071)
+* [Invite Raydium (RAY) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=940337589108494436) | [Raydium (RAY) Price (USD) Tracker on Top.gg](https://top.gg/bot/940337589108494436)
+* [Invite Kava (KAVA) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=940337595815178350) | [Kava (KAVA) Price (USD) Tracker on Top.gg](https://top.gg/bot/940337595815178350)
+* [Invite Elrond (eGold) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=940337604111523910) | [Elrond (eGold) Price (USD) Tracker on Top.gg](https://top.gg/bot/940337604111523910)
 
 #### What does it do?
 * You can follow the instant price of any cryptocurrency (with small delays due to API limits).
