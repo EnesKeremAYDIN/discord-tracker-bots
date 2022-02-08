@@ -1,9 +1,9 @@
 # Contents:
-* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (58)
+* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (54)
   * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (38)
   * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-trackers) (5)
-  * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-trackers) (5)
-  * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-trackers) (5)
+  * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-trackers) (4)
+  * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-trackers) (4)
   * [TRY (₺)](https://eneskeremaydin.com.tr/discord-tracker-bots#try--price-trackers) (5)
 * [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-trackers) (5)
 * [Gas Fee Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#gas-fee-trackers) (7)
