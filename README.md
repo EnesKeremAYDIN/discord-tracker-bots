@@ -26,14 +26,13 @@
 * [Invite Bitcoin (BTC) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939476785337360454) | [Bitcoin (BTC) GBP Price Tracker on Top.gg](https://top.gg/bot/939476785337360454)
 * [Invite Ethereum (ETH) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939528528305741824) | [Ethereum (ETH) Price (USD) Tracker on Top.gg](https://top.gg/bot/939528528305741824)
 * [Invite Binance Coin (BNB) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939596337152937988) | [Binance Coin (BNB) Price (USD) Tracker on Top.gg](https://top.gg/bot/939596337152937988)
-* [Invite Avalanche (AVAX) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939596491746599023) | [Avalanche (AVAX) Price (USD) Tracker on Top.gg](https://top.gg/bot/939596491746599023)
 * [Invite Solana (SOL) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939662285419450378) | [Solana (SOL) Price (USD) Tracker on Top.gg](https://top.gg/bot/939662285419450378)
 
 #### RUB (₽) Price Trackers: 
-* [Invite Bitcoin (BTC) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939476778710335589) | [Bitcoin (BTC) RUB Price Tracker on Top.gg](https://top.gg/bot/939476778710335589)
+* [Invite 
+(BTC) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939476778710335589) | [Bitcoin (BTC) RUB Price Tracker on Top.gg](https://top.gg/bot/939476778710335589)
 * [Invite Ethereum (ETH) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939528407878893639) | [Ethereum (ETH) Price (USD) Tracker on Top.gg](https://top.gg/bot/939528407878893639)
 * [Invite Binance Coin (BNB) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939596357201690684) | [Binance Coin (BNB) Price (USD) Tracker on Top.gg](https://top.gg/bot/939596357201690684)
-* [Invite Avalanche (AVAX) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939596516803371048) | [Avalanche (AVAX) Price (USD) Tracker on Top.gg](https://top.gg/bot/939596516803371048)
 * [Invite Solana (SOL) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939662585538678785) | [Solana (SOL) Price (USD) Tracker on Top.gg](https://top.gg/bot/939662585538678785)
 
 #### TRY (₺) Price Trackers: 
@@ -62,9 +61,7 @@
 * [Invite NEO (NEO) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=928103583319212103) | [NEO (NEO) Price (USD) Tracker on Top.gg](https://top.gg/bot/928103583319212103)
 * [Invite Chainlink (LINK) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=929762461660368907) | [Chainlink (LINK) Price (USD) Tracker on Top.gg](https://top.gg/bot/929762461660368907)
 * [Invite Ethereum Classic (ETC) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=929763271576272966) | [Ethereum Classic (ETC) Price (USD) Tracker on Top.gg](https://top.gg/bot/929763271576272966)
-* [Invite Wrapped Bitcoin (WBTC) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=929766240493391932) | [Wrapped Bitcoin (WBTC) Price (USD) Tracker on Top.gg](https://top.gg/bot/929766240493391932)
 * [Invite Bitcoin Cash (BCH) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=929764188795072572) | [Bitcoin Cash (BCH) Price (USD) Tracker on Top.gg](https://top.gg/bot/929764188795072572)
-* [Invite Bitcoin SV (BSV) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=929764774533808128) | [Bitcoin SV (BSV) Price (USD) Tracker on Top.gg](https://top.gg/bot/929764774533808128)
 * [Invite Chiliz (CHZ) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=930892405232783380) | [Chiliz (CHZ) Price (USD) Tracker on Top.gg](https://top.gg/bot/930892405232783380)
 * [Invite Basic Attention Token (BAT) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=930892357447082004) | [Basic Attention Token (BAT) Price (USD) Tracker on Top.gg](https://top.gg/bot/930892357447082004)
 * [Invite Algorand (ALGO) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933323960844709908) | [Algorand (ALGO) Price (USD) Tracker on Top.gg](https://top.gg/bot/933323960844709908)
