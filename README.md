@@ -8,6 +8,8 @@
 * [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-trackers) (5)
 * [Gas Fee Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#gas-fee-trackers) (7)
 * [Whale Tracker (Whale Movements Alert) Bot](https://eneskeremaydin.com.tr/discord-tracker-bots#whale-tracker-whale-movements-alert) (Very soon)
+* [Bots Terms of Service](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#bots-terms-of-service)
+* [Privacy Policy](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#privacy-policy)
 
 # Discord Tracker Bots
 
