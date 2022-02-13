@@ -1,3 +1,5 @@
+# Cryptocurrency Price Tracker, Cryptocurrency Market Cap Tracker, Network Gas Fee Tracker and Whale Tracker Discord bots.
+
 # Contents:
 * [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (54)
   * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (38)
@@ -5,8 +7,8 @@
   * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-trackers) (4)
   * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-trackers) (4)
   * [TRY (₺)](https://eneskeremaydin.com.tr/discord-tracker-bots#try--price-trackers) (5)
-* [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-trackers) (5)
 * [Gas Fee Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#gas-fee-trackers) (7)
+* [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-trackers) (5)
 * [Whale Tracker (Whale Movements Alert) Bot](https://eneskeremaydin.com.tr/discord-tracker-bots#whale-tracker-whale-movements-alert) (Very soon)
 * [Bots Terms of Service](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#bots-terms-of-service)
 * [Privacy Policy](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#privacy-policy)
@@ -88,6 +90,22 @@
 
 ***
 
+### Gas Fee Trackers:
+* [Invite Ethereum Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700767548866591) | [Ethereum Gas Fee Tracker on Top.gg](https://top.gg/bot/933700767548866591) | (_Powered by Etherscan.io APIs_)
+* [Invite Binance Smart Chain Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700773936771072) | [Binance Smart Chain Gas Fee Tracker on Top.gg](https://top.gg/bot/933700773936771072) | (_Powered by Bscscan.com APIs_)
+* [Invite Polygon Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700780249186384) | [Polygon Gas Fee Tracker on Top.gg](https://top.gg/bot/933700780249186384) | (_Powered by Polygonscan.com APIs_)
+* [Invite Heco Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=934034711737683978) | [Heco  Gas Fee Tracker on Top.gg](https://top.gg/bot/934034711737683978) | (_Powered by Hecoinfo.com APIs_)
+* [Invite Fantom Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=934034751197696041) | [Fantom  Gas Fee Tracker on Top.gg](https://top.gg/bot/934034751197696041) | (_Powered by FTMscan.com APIs_)
+* [Invite Moonbeam Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=934034767551279114) | [Moonbeam  Gas Fee Tracker on Top.gg](https://top.gg/bot/934034767551279114) | (_Powered by Moonscan.io APIs_)
+
+#### What does it do?
+* You can monitor instant gas fee (with small delays due to API limits) of any network.
+
+#### Configurations:
+* ~~If you want the bots to show the instant gas value in their names, give the bot "manage username" permission.~~ This feature is currently unavailable due to Discord API limits, it will be back soon.
+
+***
+
 ### Market Cap Trackers:
 * [Invite Bitcoin (BTC) Market Cap Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933348242916261918) | [Bitcoin (BTC) Market Cap Tracker on Top.gg](https://top.gg/bot/933348242916261918)
 * [Invite Ethereum (ETH) Market Cap Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933348405240033340) | [Ethereum (ETH) Market Cap Tracker on Top.gg](https://top.gg/bot/933348405240033340)
@@ -100,22 +118,6 @@
 
 #### Configurations:
 * ~~If you want the bots to show the instant market cap value in their names, give the bot "manage username" permission.~~ This feature is currently unavailable due to Discord API limits, it will be back soon.
-
-***
-
-### Gas Fee Trackers:
-* [Invite Ethereum Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700767548866591) | [Ethereum Gas Fee Tracker on Top.gg](https://top.gg/bot/933700767548866591) | (_Powered by Etherscan.io APIs_)
-* [Invite Binance Smart Chain Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700773936771072) | [Binance Smart Chain Gas Fee Tracker on Top.gg](https://top.gg/bot/933700773936771072) | (_Powered by Bscscan.com APIs_)
-* [Invite Polygon Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700780249186384) | [Polygon Gas Fee Tracker on Top.gg](https://top.gg/bot/933700780249186384) | (_Powered by Polygonscan.com APIs_)
-* [Invite Heco Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=934034711737683978) | [Heco  Gas Fee Tracker on Top.gg](https://top.gg/bot/934034711737683978) | (_Powered by Hecoinfo.com APIs_)
-* [Invite Fantom Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=934034751197696041) | [Fantom  Gas Fee Tracker on Top.gg](https://top.gg/bot/934034751197696041) | (_Powered by FTMscan.com APIs_)
-* [Invite Moonbeam Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=934034767551279114) | [Moonbeam  Gas Fee Tracker on Top.gg](https://top.gg/bot/934034767551279114) | (_Powered by Moonscan.io APIs_)
-
-#### What does it do?
-* You can monitor instant gas prices (with small delays due to API limits) of any network.
-
-#### Configurations:
-* ~~If you want the bots to show the instant gas value in their names, give the bot "manage username" permission.~~ This feature is currently unavailable due to Discord API limits, it will be back soon.
 
 ***
 
