@@ -84,7 +84,8 @@
 * [Invite Raydium (RAY) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=940337589108494436) | [Raydium (RAY) Price (USD) Tracker on Top.gg](https://top.gg/bot/940337589108494436)
 * [Invite Kava (KAVA) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=940337595815178350) | [Kava (KAVA) Price (USD) Tracker on Top.gg](https://top.gg/bot/940337595815178350)
 * [Invite Elrond (eGold) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=940337604111523910) | [Elrond (eGold) Price (USD) Tracker on Top.gg](https://top.gg/bot/940337604111523910)
-* [Invite Dash (DASH) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=941048731200024627) | [Elrond (eGold) Price (USD) Tracker on Top.gg](https://top.gg/bot/941048731200024627)
+* [Invite Dash (DASH) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=941048731200024627) | [Dash (DASH) Price (USD) Tracker on Top.gg](https://top.gg/bot/941048731200024627)
+* [Invite Juno (JUNO) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=942352994949795840) | [Juno (JUNO) Price (USD) Tracker on Top.gg](https://top.gg/bot/942352994949795840)
 
 #### What does it do?
 * You can follow the instant price of any cryptocurrency (with small delays due to API limits).
