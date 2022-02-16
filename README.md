@@ -47,11 +47,11 @@
 * [Invite Solana (SOL) Price (TRY) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939662627234258955) | [Solana (SOL) Price (TRY) Tracker on Top.gg](https://top.gg/bot/939662627234258955)
 
 #### USD ($) Price Trackers: 
-* [Invite Bitcoin (BTC) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=927613829381259345) | [Bitcoin (BTC) Price (USD) Tracker on Top.gg](https://top.gg/bot/927613829381259345)
-* [Invite Ethereum (ETH) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=927618897769803887) | [Ethereum (ETH) Price (USD) Tracker on Top.gg](https://top.gg/bot/927618897769803887)
+* [Invite Bitcoin (BTC) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=927613829381259345) | [Bitcoin (BTC) Price (USD) Tracker on Top.gg](https://top.gg/bot/927613829381259345) | Verified
+* [Invite Ethereum (ETH) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=927618897769803887) | [Ethereum (ETH) Price (USD) Tracker on Top.gg](https://top.gg/bot/927618897769803887) | Verified
 * [Invite Binance Coin (BNB) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=927620486412771338) | [Binance Coin (BNB) Price (USD) Tracker on Top.gg](https://top.gg/bot/927620486412771338)
 * [Invite Avalanche (AVAX) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=927747570988642324) | [Avalanche (AVAX) Price (USD) Tracker on Top.gg](https://top.gg/bot/927747570988642324)
-* [Invite Solana (SOL) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=927749995757699113) | [Solana (SOL) Price (USD) Tracker on Top.gg](https://top.gg/bot/927749995757699113)
+* [Invite Solana (SOL) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=927749995757699113) | [Solana (SOL) Price (USD) Tracker on Top.gg](https://top.gg/bot/927749995757699113) | Verified
 * [Invite Litecoin (LTC) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=927755240697118732) | [Litecoin (LTC) Price (USD) Tracker on Top.gg](https://top.gg/bot/927755240697118732)
 * [Invite Cardano (ADA) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=928040507467235398) | [Cardano (ADA) Price (USD) Tracker on Top.gg](https://top.gg/bot/928040507467235398)
 * [Invite Dogecoin (DOGE) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=928052109931347999) | [Dogecoin (DOGE) Price (USD) Tracker on Top.gg](https://top.gg/bot/928052109931347999)
