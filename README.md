@@ -32,8 +32,7 @@
 * [Invite Solana (SOL) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939662285419450378) | [Solana (SOL) Price (GBP) Tracker on Top.gg](https://top.gg/bot/939662285419450378)
 
 #### RUB (₽) Price Trackers: 
-* [Invite 
-(BTC) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939476778710335589) | [Bitcoin (BTC) Price (RUB) Tracker on Top.gg](https://top.gg/bot/939476778710335589)
+* [Invite (BTC) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939476778710335589) | [Bitcoin (BTC) Price (RUB) Tracker on Top.gg](https://top.gg/bot/939476778710335589)
 * [Invite Ethereum (ETH) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939528407878893639) | [Ethereum (ETH) Price (RUB) Tracker on Top.gg](https://top.gg/bot/939528407878893639)
 * [Invite Binance Coin (BNB) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=939596357201690684) | [Binance Coin (BNB) Price (RUB) Tracker on Top.gg](https://top.gg/bot/939596357201690684)
 * [Invite Avalanche (AVAX) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=941035297355989002) | [Avalanche (AVAX) Price (RUB) Tracker on Top.gg](https://top.gg/bot/941035297355989002)
