@@ -1,8 +1,8 @@
 # Cryptocurrency Price Tracker, Cryptocurrency Market Cap Tracker, Network Gas Fee Tracker and Whale Tracker Discord bots.
 
 # Contents:
-* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (60)
-  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (40)
+* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (75)
+  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (55)
   * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-trackers) (5)
   * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-trackers) (5)
   * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-trackers) (5)
@@ -87,6 +87,21 @@
 * [Invite Elrond (eGold) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=940337604111523910) | [Elrond (eGold) Price (USD) Tracker on Top.gg](https://top.gg/bot/940337604111523910)
 * [Invite Dash (DASH) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=941048731200024627) | [Dash (DASH) Price (USD) Tracker on Top.gg](https://top.gg/bot/941048731200024627)
 * [Invite Juno (JUNO) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=942352994949795840) | [Juno (JUNO) Price (USD) Tracker on Top.gg](https://top.gg/bot/942352994949795840)
+* [Invite BitTorrent (BTT) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944684220582854686) | [BitTorrent (BTT) Price (USD( Tracker on Top.gg](https://top.gg/bot/944684220582854686)
+* [Invite BitTorrent Old (BTTOLD) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944684550754271302) | [BitTorrent Old (BTTOLD) Price (USD( Tracker on Top.gg](https://top.gg/bot/944684550754271302)
+* [Invite Filecoin (FIL) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944684653355364383) | [Filecoin (FIL) Price (USD( Tracker on Top.gg](https://top.gg/bot/944684653355364383)
+* [Invite SafeMoon (SFM) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944684695080304750) | [SafeMoon (SFM) Price (USD( Tracker on Top.gg](https://top.gg/bot/944684695080304750)
+* [Invite Smooth Love Potion (SLP) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944684739166601216) | [Smooth Love Potion (SLP) Price (USD( Tracker on Top.gg](https://top.gg/bot/944684739166601216)
+* [Invite Akita Inu (AKITA) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944684941663416320) | [Akita Inu (AKITA) Price (USD( Tracker on Top.gg](https://top.gg/bot/944684941663416320)
+* [Invite Metis Token (METIS) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944685423681216612) | [Metis Token (METIS) Price (USD( Tracker on Top.gg](https://top.gg/bot/944685423681216612)
+* [Invite Mina Protocol (MINA) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944685466387628032) | [Mina Protocol (MINA) Price (USD( Tracker on Top.gg](https://top.gg/bot/944685466387628032)
+* [Invite Axie Infinity (AXS) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944685539079094292) | [Axie Infinity (AXS) Price (USD( Tracker on Top.gg](https://top.gg/bot/944685539079094292)
+* [Invite Gala (GALA) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944685579667402753) | [Gala (GALA) Price (USD( Tracker on Top.gg](https://top.gg/bot/944685579667402753)
+* [Invite Vigorus (VIS) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944894928427839518) | [Vigorus (VIS) Price (USD( Tracker on Top.gg](https://top.gg/bot/944894928427839518)
+* [Invite Pegaxy Stone (PGX) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944894974829412422) | [Pegaxy Stone (PGX) Price (USD( Tracker on Top.gg](https://top.gg/bot/944894974829412422)
+* [Invite Splinterlands (SPS) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944895018685046834) | [Splinterlands (SPS) Price (USD( Tracker on Top.gg](https://top.gg/bot/944895018685046834)
+* [Invite Gods Unchained (GODS) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944895060724559893) | [Gods Unchained (GODS) Price (USD( Tracker on Top.gg](https://top.gg/bot/944895060724559893)
+* [Invite Town Star (TOWN) Price (USD( Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=944895104886378497) | [Town Star (TOWN) Price (USD( Tracker on Top.gg](https://top.gg/bot/944895104886378497)
 
 #### What does it do?
 * You can follow the instant price of any cryptocurrency (with small delays due to API limits).
