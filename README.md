@@ -146,7 +146,7 @@
 * ~~If you want the bots to show the instant market cap value in their names, give the bot "manage username" permission.~~ This feature is currently unavailable due to Discord API limits, it will be back soon.
 
 ### Notes:
-* Gas fees are represented by emojis. Meanings of emojis: ⚡ (Fast) - 🚶 (Medium) - 🐢 (Slow) - 👌 (Ideal)
+* Gas fees are represented by emojis. Meanings of emojis: ⚡ (Fast) - 🚶 (Medium) - 🐢 (Slow) - 👌 (Ideal, the baseFee of the next pending block.)
 
 ***
 
