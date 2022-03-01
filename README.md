@@ -105,8 +105,11 @@
 #### What does it do?
 * You can follow the instant price of any cryptocurrency (with small delays due to API limits).
 
+### Commands:
+* 
+
 #### Configurations:
-* ~~If you want the bots to show the instant price value in their names, give the bot "manage username" permission.~~ This feature is currently unavailable due to Discord API limits, it will be back soon.
+* ~~If you want the bots to show the instant price value in their names, give the bot "manage username" permission.~~ (This feature is currently unavailable due to Discord API limits, it will be back soon.)
 
 ### Notes:
 * 
@@ -115,6 +118,7 @@
 
 ### Gas Fee Trackers:
 * [Invite Ethereum Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700767548866591) | [Ethereum Gas Fee Tracker on Top.gg](https://top.gg/bot/933700767548866591) | (_Powered by Etherscan.io APIs_)
+* [Invite Avalanche C-Chain Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=934034734294634507) | [Ethereum Gas Fee Tracker on Top.gg](https://top.gg/bot/934034734294634507) | (_Powered by Snowtrace.io APIs_)
 * [Invite Binance Smart Chain Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700773936771072) | [Binance Smart Chain Gas Fee Tracker on Top.gg](https://top.gg/bot/933700773936771072) | (_Powered by Bscscan.com APIs_)
 * [Invite Polygon Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=933700780249186384) | [Polygon Gas Fee Tracker on Top.gg](https://top.gg/bot/933700780249186384) | (_Powered by Polygonscan.com APIs_)
 * [Invite Heco Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot&permissions=0&client_id=934034711737683978) | [Heco  Gas Fee Tracker on Top.gg](https://top.gg/bot/934034711737683978) | (_Powered by Hecoinfo.com APIs_)
@@ -124,8 +128,11 @@
 #### What does it do?
 * You can monitor instant gas fee (with small delays due to API limits) of any network.
 
+### Commands:
+* 
+
 #### Configurations:
-* ~~If you want the bots to show the instant gas value in their names, give the bot "manage username" permission.~~ This feature is currently unavailable due to Discord API limits, it will be back soon.
+* ~~If you want the bots to show the instant gas value in their names, give the bot "manage username" permission.~~ (This feature is currently unavailable due to Discord API limits, it will be back soon.)
 
 ### Notes:
 * 
@@ -142,8 +149,11 @@
 #### What does it do?
 * You can follow the instant market cap of any cryptocurrency (with small delays due to API limits).
 
+### Commands:
+* 
+
 #### Configurations:
-* ~~If you want the bots to show the instant market cap value in their names, give the bot "manage username" permission.~~ This feature is currently unavailable due to Discord API limits, it will be back soon.
+* ~~If you want the bots to show the instant market cap value in their names, give the bot "manage username" permission.~~ (This feature is currently unavailable due to Discord API limits, it will be back soon.)
 
 ### Notes:
 * Gas fees are represented by emojis. Meanings of emojis: ⚡ (Fast) - 🚶 (Medium) - 🐢 (Slow) - 👌 (Ideal, the baseFee of the next pending block.)
@@ -156,8 +166,11 @@
 #### What does it do?
 * It can receive notifications about the movements of whales of certain coins and tokens in certain networks.
 
+### Commands:
+* 
+
 #### Configurations:
-* Add the bot and create a text channel called "whale-movements-alert".
+* ~~Add the bot and create a text channel called "whale-movements-alert".~~
 
 ***
 
