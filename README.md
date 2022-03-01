@@ -150,7 +150,7 @@
 * You can follow the instant market cap of any cryptocurrency (with small delays due to API limits).
 
 ### Commands:
-* 
+* $gas-fee (or: $gas): Shows the instant gas price.
 
 #### Configurations:
 * ~~If you want the bots to show the instant market cap value in their names, give the bot "manage username" permission.~~ (This feature is currently unavailable due to Discord API limits, it will be back soon.)
