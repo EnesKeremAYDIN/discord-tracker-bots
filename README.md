@@ -106,6 +106,7 @@
 * You can follow the instant price of any cryptocurrency (with small delays due to API limits).
 
 ### Commands:
+* $help: Lists all commands.
 * 
 
 #### Configurations:
