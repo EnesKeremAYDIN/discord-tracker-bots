@@ -106,7 +106,7 @@
 * You can follow the instant price of any cryptocurrency (with small delays due to API limits).
 
 ### Commands:
-* $help: Lists all commands.
+* /help: Lists all commands.
 * 
 
 #### Configurations:
@@ -130,7 +130,7 @@
 * You can monitor instant gas fee (with small delays due to API limits) of any network.
 
 ### Commands:
-* $help: Lists all commands.
+* /help: Lists all commands.
 * 
 
 #### Configurations:
@@ -152,8 +152,8 @@
 * You can follow the instant market cap of any cryptocurrency (with small delays due to API limits).
 
 ### Commands:
-* $help: Lists all commands.
-* $gas-fee (or: $gas): Shows the instant gas price.
+* /help: Lists all commands.
+* /gas-fee (or: $gas): Shows the instant gas price.
 
 #### Configurations:
 * ~~If you want the bots to show the instant market cap value in their names, give the bot "manage username" permission.~~ (This feature is currently unavailable due to Discord API limits, it will be back soon.)
@@ -170,7 +170,7 @@
 * It can receive notifications about the movements of whales of certain coins and tokens in certain networks.
 
 ### Commands:
-* $help: Lists all commands.
+* /help: Lists all commands.
 * 
 
 #### Configurations:
