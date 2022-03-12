@@ -184,7 +184,7 @@ PLEASE READ THESE TERMS OF SERVICE CAREFULLY. BY ACCESSING OR USING OUR SERVICES
 
 These terms of service and all terms expressly stated here apply to your access to and use of all Discord bot services listed on this website.
 
-❗ ⚠ The bots on this page are hobby projects, they are not affiliated with the team or officials of the cryptocurrency they represent.
+⚠ The bots on this page are hobby projects, they are not affiliated with the team or officials of the cryptocurrency they represent.
 
 1. You represent and warrant that you have full authority and authority to conclude this agreement and that you will not violate any other agreement to which you are a party in doing so.
 2. We may, at our sole discretion and without liability to you, change or terminate any part of our Services, temporarily or permanently, at any time, with or without notice.
