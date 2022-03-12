@@ -184,14 +184,14 @@ PLEASE READ THESE TERMS OF SERVICE CAREFULLY. BY ACCESSING OR USING OUR SERVICES
 
 These terms of service and all terms expressly stated here apply to your access to and use of all Discord bot services listed on this website.
 
-⚠ Trading can be risky. If you are planning to trade crypto, please consult a financial adviser.
+❗ ⚠ The bots on this page are hobby projects, they are not affiliated with the team or officials of the cryptocurrency they represent.
 
 1. You represent and warrant that you have full authority and authority to conclude this agreement and that you will not violate any other agreement to which you are a party in doing so.
 2. We may, at our sole discretion and without liability to you, change or terminate any part of our Services, temporarily or permanently, at any time, with or without notice.
 3. The developers do not guarantee the accuracy, completeness and adequacy of the information provided and are not responsible in any way or for any reason for any errors or omissions in this information. Therefore, it is recommended that users confirm the accuracy of the information before acting on the information/opinion and content they obtain. Users are entirely responsible for the commercial and other decisions they make based on this information, and the developers cannot be held responsible for any lack of information, outdated or incorrect information.
 4. The developers are not responsible for any loss that may occur during use, including direct or indirect damages, losses and expenses caused by these bots.
 
-Although the names and logos of the Discord bots listed on this website belong to the cryptocurrency and/or blockchain network they represent, they have been used without any profit motive, assuming that these names and logos are publicly owned. If you want a content that you hold the copyright of (name, logo, etc.) to be removed from use and/or the Discord bot it is connected to, please contact us. Contact: eneskeremaydin60[@]gmail.com (e-mail)
+Although the names and logos of the Discord bots listed on this website belong to the cryptocurrency and/or blockchain network they represent, they have been used without any profit motive, assuming that these names and logos are publicly owned. If you want a content that you hold the copyright of (name, logo, etc.) to be removed from use and/or the Discord bot it is connected to, please contact us. eneskeremaydin60[@]gmail.com
 
 ## Privacy Policy
 
