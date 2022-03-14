@@ -178,20 +178,31 @@
 
 ***
 
-## Bots Terms of Service
+## Terms of Service
+
+⚠ The bots on this page are hobby projects, they are not affiliated with the team or officials of the cryptocurrency they represent.
 
 PLEASE READ THESE TERMS OF SERVICE CAREFULLY. BY ACCESSING OR USING OUR SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE AND ALL TERMS INCORPORATED BY REFERENCE.
 
 These terms of service and all terms expressly stated here apply to your access to and use of all Discord bot services listed on this website.
 
-⚠ The bots on this page are hobby projects, they are not affiliated with the team or officials of the cryptocurrency they represent.
+Developers may change the terms of use as needed; however, these changes will be regularly published on the website and will be effective from the same date. Every natural and legal person who makes use of and accesses the website and Discord bot services is deemed to have accepted any changes made in the terms of use in advance. The developers reserve the right to change the information, forms and content on this website and Discord bots at any time.
 
-1. You represent and warrant that you have full authority and authority to conclude this agreement and that you will not violate any other agreement to which you are a party in doing so.
+Terms of Service Definitions
+
+Developer/Developers: The developers and owners of this website and the Discord bots.
+We: Developers.
+Website: It is the website that can be accessed from the online environment where various services and content are offered within the framework determined by developers.
+Discord bots: Discord bots listed on this website.
+User: It is the person who visits this website and Discord bots with or without service.
+Information: Content of any kind provided through this website and via the Discord bots.
+
+1. User represent and warrant that you have full authority and authority to conclude this agreement and that you will not violate any other agreement to which you are a party in doing so.
 2. We may, at our sole discretion and without liability to you, change or terminate any part of our Services, temporarily or permanently, at any time, with or without notice.
 3. The developers do not guarantee the accuracy, completeness and adequacy of the information provided and are not responsible in any way or for any reason for any errors or omissions in this information. Therefore, it is recommended that users confirm the accuracy of the information before acting on the information/opinion and content they obtain. Users are entirely responsible for the commercial and other decisions they make based on this information, and the developers cannot be held responsible for any lack of information, outdated or incorrect information.
 4. The developers are not responsible for any loss that may occur during use, including direct or indirect damages, losses and expenses caused by these bots.
 
-Although the names and logos of the Discord bots listed on this website belong to the cryptocurrency and/or blockchain network they represent, they have been used without any profit motive, assuming that these names and logos are publicly owned. If you want a content that you hold the copyright of (name, logo, etc.) to be removed from use and/or the Discord bot it is connected to, please contact us. eneskeremaydin60[@]gmail.com
+Although the names and logos of the Discord bots belong to the cryptocurrency and/or blockchain network they represent, they have been used without any profit motive, assuming that these names and logos are publicly owned. If you want a content that you hold the copyright of (name, logo, etc.) to be removed from use and/or the Discord bot it is connected to, please contact us. eneskeremaydin60[@]gmail.com
 
 ## Privacy Policy
 
