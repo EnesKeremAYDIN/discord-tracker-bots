@@ -188,14 +188,14 @@ These terms of service and all terms expressly stated here apply to your access 
 
 Developers may change the terms of use as needed; however, these changes will be regularly published on the website and will be effective from the same date. Every natural and legal person who makes use of and accesses the website and Discord bot services is deemed to have accepted any changes made in the terms of use in advance. The developers reserve the right to change the information, forms and content on this website and Discord bots at any time.
 
-Terms of Service Definitions
+Terms of Service Definitions  
 
-Developer/Developers: The developers and owners of this website and the Discord bots.
-We: Developers.
-Website: It is the website that can be accessed from the online environment where various services and content are offered within the framework determined by developers.
-Discord bots: Discord bots listed on this website.
-User: It is the person who visits this website and Discord bots with or without service.
-Information: Content of any kind provided through this website and via the Discord bots.
+Developer/Developers: The developers and owners of this website and the Discord bots.  
+We: Developers.  
+Website: It is the website that can be accessed from the online environment where various services and content are offered within the framework determined by developers.  
+Discord bots: Discord bots listed on this website.  
+User: It is the person who visits this website and Discord bots with or without service.  
+Information: Content of any kind provided through this website and via the Discord bots.  
 
 1. User represent and warrant that you have full authority and authority to conclude this agreement and that you will not violate any other agreement to which you are a party in doing so.
 2. We may, at our sole discretion and without liability to you, change or terminate any part of our Services, temporarily or permanently, at any time, with or without notice.
