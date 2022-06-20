@@ -1,8 +1,8 @@
 # Cryptocurrency Price Tracker, Cryptocurrency Market Cap Tracker, Network Gas Fee Tracker and Whale Tracker Discord bots.
 
 # Contents:
-* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (76)
-  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (56)
+* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (77)
+  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (57)
   * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-trackers) (5)
   * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-trackers) (5)
   * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-trackers) (5)
@@ -102,6 +102,7 @@
 * [Invite Splinterlands (SPS) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=944895018685046834)
 * [Invite Gods Unchained (GODS) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=944895060724559893)
 * [Invite Town Star (TOWN) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=944895104886378497)
+* [Invite Pavia (PAVIA) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=988374783743897600)
 
 #### What does it do?
 * You can follow the instant price of any cryptocurrency (with small delays due to API limits).
