@@ -205,7 +205,7 @@ Information: Content of any kind provided through this website and via the Disco
 3. The developers do not guarantee the accuracy, completeness and adequacy of the information provided and are not responsible in any way or for any reason for any errors or omissions in this information. Therefore, it is recommended that users confirm the accuracy of the information before acting on the information/opinion and content they obtain. Users are entirely responsible for the commercial and other decisions they make based on this information, and the developers cannot be held responsible for any lack of information, outdated or incorrect information.
 4. The developers are not responsible for any loss that may occur during use, including direct or indirect damages, losses and expenses caused by these bots.
 
-Although the names and logos of the Discord bots belong to the cryptocurrency and/or blockchain network they represent, they have been used without any profit motive, assuming that these names and logos are publicly owned. If you want a content that you hold the copyright of (name, logo, etc.) to be removed from use and/or the Discord bot it is connected to, please contact us. eneskeremaydin60[@]gmail.com
+Although the names and logos of the Discord bots belong to the cryptocurrency and/or blockchain network they represent, they have been used without any profit motive, assuming that these names and logos are publicly owned. If you want a content that you hold the copyright of (name, logo, etc.) to be removed from use and/or the Discord bot it is connected to, please contact us. ![mail](mail.jpg)
 
 ## Privacy Policy
 
