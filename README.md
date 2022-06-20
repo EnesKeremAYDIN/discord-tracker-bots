@@ -182,7 +182,7 @@
 
 ## Terms of Service
 
-⚠ The bots on this page are hobby projects, they are not affiliated with the team or officials of the cryptocurrency they represent.
+⚠ The bots on this page are hobby projects, they are not affiliated with the team or officials of the cryptocurrency they represent.  
 ⚠ Do not offer partnerships for your Discord servers, all bots listed on this page are public, you can use them as you wish and you can also advertise them wherever you want as a token of gratitude if you want, but this does not mean that we are partnered with you. This is a hobby project.
 
 PLEASE READ THESE TERMS OF SERVICE CAREFULLY. BY ACCESSING OR USING OUR SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE AND ALL TERMS INCORPORATED BY REFERENCE.
