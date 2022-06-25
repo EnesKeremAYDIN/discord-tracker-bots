@@ -210,3 +210,9 @@ Although the names and logos of the Discord bots belong to the cryptocurrency an
 ## Privacy Policy
 
 Since we do not store (or even access) any of your data, we guarantee that we will not share it in any way, anywhere.
+
+***
+
+# Social Links:
+
+[Reddit](https://www.reddit.com/r/DiscordTrackerBots/)
