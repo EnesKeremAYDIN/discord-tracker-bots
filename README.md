@@ -9,7 +9,6 @@
   * [TRY (₺)](https://eneskeremaydin.com.tr/discord-tracker-bots#try--price-trackers) (5)
 * [Gas Fee Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#gas-fee-trackers) (7) ([on Reddit](https://www.reddit.com/r/DiscordTrackerBots/collection/696c9362-1f5f-4f56-a7bf-24503de0c031))
 * [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-trackers) (5) ([on Reddit](https://www.reddit.com/r/DiscordTrackerBots/collection/c097a153-f2f8-46a5-9813-e9da4997e163))
-* [Whale Tracker (Whale Movements Alert) Bot](https://eneskeremaydin.com.tr/discord-tracker-bots#whale-tracker-whale-movements-alert) (Very soon)
 * [Terms of Service](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#terms-of-service)
 * [Privacy Policy](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#privacy-policy)
 
@@ -162,21 +161,6 @@
 
 ### Notes:
 * Gas fees are represented by emojis. Meanings of emojis: ⚡ (Fast) - 🚶 (Medium) - 🐢 (Slow) - 👌 (Ideal, the baseFee of the next pending block.)
-
-***
-
-### Whale Tracker (Whale Movements Alert):
-* [Invite Whale Movements Tracker (Whale Movements Alert)]()
-
-#### What does it do?
-* It can receive notifications about the movements of whales of certain coins and tokens in certain networks.
-
-### Commands:
-* /help: Lists all commands.
-* 
-
-#### Configurations:
-* ~~Add the bot and create a text channel called "whale-movements-alert".~~
 
 ***
 
