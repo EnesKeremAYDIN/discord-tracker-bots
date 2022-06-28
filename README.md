@@ -108,7 +108,8 @@
 
 ### Commands:
 * /help: Lists all commands.
-* 
+* /price: See price.
+* /donate: Donate to the developer.
 
 #### Configurations:
 * ~~If you want the bots to show the instant price value in their names, give the bot "manage username" permission.~~ (This feature is currently unavailable due to Discord API limits, it will be back soon.)
@@ -132,7 +133,8 @@
 
 ### Commands:
 * /help: Lists all commands.
-* 
+* /gasfee: See Gas Fee.
+* /donate: Donate to the developer!
 
 #### Configurations:
 * ~~If you want the bots to show the instant gas value in their names, give the bot "manage username" permission.~~ (This feature is currently unavailable due to Discord API limits, it will be back soon.)
@@ -154,7 +156,8 @@
 
 ### Commands:
 * /help: Lists all commands.
-* /gas-fee (or: $gas): Shows the instant gas price.
+* /marketcap: See Market Cap.
+* /donate: Donate to the developer!
 
 #### Configurations:
 * ~~If you want the bots to show the instant market cap value in their names, give the bot "manage username" permission.~~ (This feature is currently unavailable due to Discord API limits, it will be back soon.)
