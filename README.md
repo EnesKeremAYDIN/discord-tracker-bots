@@ -202,4 +202,5 @@ Since we do not store (or even access) any of your data, we guarantee that we wi
 
 # Social Links:
 
-[Reddit](https://www.reddit.com/r/DiscordTrackerBots/)
+[Reddit](https://www.reddit.com/r/DiscordTrackerBots)
+[Medium](https://eneskeremaydin.medium.com/cryptocurrency-price-tracker-cryptocurrency-market-cap-tracker-network-gas-fee-tracker-discord-39ca0815e84a)
