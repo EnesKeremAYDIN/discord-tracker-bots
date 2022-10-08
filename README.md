@@ -102,6 +102,8 @@
 * [Invite Gods Unchained (GODS) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=944895060724559893)
 * [Invite Town Star (TOWN) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=944895104886378497)
 * [Invite Pavia (PAVIA) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=988374783743897600)
+* [Invite ApeCoin (APE) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1028392778218094592)
+* [Invite Hive (HIVE) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1028392784677306368)
 
 #### What does it do?
 * You can follow the instant price of any cryptocurrency (with small delays due to API limits).
