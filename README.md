@@ -171,18 +171,18 @@
 
 ## Terms of Service
 
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY. BY ACCESSING OR USING OUR SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE AND ALL TERMS INCORPORATED BY REFERENCE.
+
+Developers may change the terms of use as needed; however, these changes will be regularly published on the website and will be effective from the same date. Every natural and legal person who makes use of and accesses the website and Discord bot services is deemed to have accepted any changes made in the terms of use in advance. The developers reserve the right to change the information, forms and content on this website and Discord bots at any time.
+
 Disclaimer: The information contained in the Discord bots listed here and published pursuant to this agreement should not be construed as investment advice or investment incentives, or as any trading order, buy or sell request regarding financial instruments; The developers make no warranties or representations, express or partial, as to the completeness, accuracy, or fitness for a particular purpose of the information contained in the Discord bots listed here and published pursuant to this agreement. The use of images and symbols is for illustrative purposes only and does not constitute a recommendation to buy, sell or hold a particular financial instrument; The use of brand logos does not necessarily imply a contractual relationship between us and the organizations that own the logos, or endorsement of such an entity by the developers, and vice versa. Market information is provided to you only as a service.
 
 Reminding: The bots on this page are hobby projects, they are not affiliated with the team or officials of the cryptocurrency they represent.  
 Reminding: Do not offer partnerships for your Discord servers, all bots listed on this page are public, you can use them as you wish and you can also advertise them wherever you want as a token of gratitude if you want, but this does not mean that we are partnered with you. This is a hobby project.
 
-PLEASE READ THESE TERMS OF SERVICE CAREFULLY. BY ACCESSING OR USING OUR SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE AND ALL TERMS INCORPORATED BY REFERENCE.
+These terms of service and all terms expressly set forth herein apply to your access to and use of all Discord bot services listed on this website and linked to this agreement.
 
-These terms of service and all terms expressly stated here apply to your access to and use of all Discord bot services listed on this website.
-
-Developers may change the terms of use as needed; however, these changes will be regularly published on the website and will be effective from the same date. Every natural and legal person who makes use of and accesses the website and Discord bot services is deemed to have accepted any changes made in the terms of use in advance. The developers reserve the right to change the information, forms and content on this website and Discord bots at any time.
-
-Terms of Service Definitions  
+Terms of Service Definitions:  
 
 Developer/Developers: The developers and owners of this website, the Discord bots listed here and affiliated with this agreement.
 We: Developer/Developers.  
