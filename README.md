@@ -14,37 +14,37 @@
 
 # Discord Tracker Bots
 
-### Price Trackers:
+### Price Tracker Discord Bots:
 
-#### EUR (€) Price Trackers: 
+#### EUR (€) Price Tracker Discord Bots :
 * [Invite Bitcoin (BTC) Price (EUR) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939476766546853939)
 * [Invite Ethereum (ETH) Price (EUR) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939528292938174485)
 * [Invite Binance Coin (BNB) Price (EUR) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596315090894899)
 * [Invite Avalanche (AVAX) Price (EUR) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596482934341693)
 * [Invite Solana (SOL) Price (EUR) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939662240305524746)
 
-#### GBP (£) Price Trackers: 
+#### GBP (£) Price Tracker Discord Bots :
 * [Invite Bitcoin (BTC) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939476785337360454)
 * [Invite Ethereum (ETH) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939528528305741824)
 * [Invite Binance Coin (BNB) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596337152937988)
 * [Invite Avalanche (AVAX) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=941035332688809994)
 * [Invite Solana (SOL) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939662285419450378)
 
-#### RUB (₽) Price Trackers: 
+#### RUB (₽) Price Tracker Discord Bots :
 * [Invite (BTC) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939476778710335589)
 * [Invite Ethereum (ETH) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939528407878893639)
 * [Invite Binance Coin (BNB) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596357201690684)
 * [Invite Avalanche (AVAX) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=941035297355989002)
 * [Invite Solana (SOL) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939662585538678785)
 
-#### TRY (₺) Price Trackers: 
+#### TRY (₺) Price Tracker Discord Bots :
 * [Invite Bitcoin (BTC) Price (TRY) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939476791523967036)
 * [Invite Ethereum (ETH) Price (TRY) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939528569497997332)
 * [Invite Binance Coin (BNB) Price (TRY) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596365686788176)
 * [Invite Avalanche (AVAX) Price (TRY) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596525795958825)
 * [Invite Solana (SOL) Price (TRY) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939662627234258955)
 
-#### USD ($) Price Trackers: 
+#### USD ($) Price Tracker Discord Bots :
 * [Invite Bitcoin (BTC) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=927613829381259345)
 * [Invite Ethereum (ETH) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=927618897769803887)
 * [Invite Binance Coin (BNB) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=927620486412771338)
@@ -121,7 +121,7 @@
 
 ***
 
-### Gas Fee Trackers:
+### Gas Fee Tracker Discord Bots:
 * [Invite Ethereum Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=933700767548866591)
 * [Invite Avalanche C-Chain Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=934034734294634507)
 * [Invite Binance Smart Chain Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=933700773936771072)
@@ -146,7 +146,7 @@
 
 ***
 
-### Market Cap Trackers:
+### Market Cap Tracker Discord Bots:
 * [Invite Bitcoin (BTC) Market Cap Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=933348242916261918)
 * [Invite Ethereum (ETH) Market Cap Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=933348405240033340)
 * [Invite Binance Coin (BNB) Market Cap Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=933348864742817792)
