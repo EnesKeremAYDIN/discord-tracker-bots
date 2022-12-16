@@ -1,14 +1,14 @@
 # Cryptocurrency Price Tracker, Cryptocurrency Market Cap Tracker, Network Gas Fee Tracker Discord bots.
 
 # Contents:
-* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (79) ([on Reddit](https://www.reddit.com/r/DiscordTrackerBots/collection/5ceb174a-22cd-452d-b0b6-244471eeca7d))
+* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (79)
   * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (59)
   * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-trackers) (5)
   * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-trackers) (5)
   * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-trackers) (5)
   * [TRY (₺)](https://eneskeremaydin.com.tr/discord-tracker-bots#try--price-trackers) (5)
-* [Gas Fee Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#gas-fee-trackers) (7) ([on Reddit](https://www.reddit.com/r/DiscordTrackerBots/collection/696c9362-1f5f-4f56-a7bf-24503de0c031))
-* [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-trackers) (5) ([on Reddit](https://www.reddit.com/r/DiscordTrackerBots/collection/c097a153-f2f8-46a5-9813-e9da4997e163))
+* [Gas Fee Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#gas-fee-trackers) (7)
+* [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-trackers) (5)
 * [Terms of Service](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#terms-of-service)
 * [Privacy Policy](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#privacy-policy)
 
