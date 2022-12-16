@@ -208,3 +208,4 @@ Except for data such as general server amount and user amount data that we are a
 
 [Reddit](https://www.reddit.com/r/DiscordTrackerBots)  
 [Medium](https://eneskeremaydin.medium.com/cryptocurrency-price-tracker-cryptocurrency-market-cap-tracker-network-gas-fee-tracker-discord-39ca0815e84a)
+[Google Sites](https://sites.google.com/view/cryptotrackerbots)
