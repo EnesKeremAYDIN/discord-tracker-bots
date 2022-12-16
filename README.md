@@ -1,6 +1,6 @@
 # Cryptocurrency Price Tracker, Cryptocurrency Market Cap Tracker, Network Gas Fee Tracker Discord bots.
 
-# Contents: [on Reddit](https://www.reddit.com/r/DiscordTrackerBots/collection/9220ca63-009e-4589-af84-81a0b1b5a094)
+# Contents:
 * [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (79) ([on Reddit](https://www.reddit.com/r/DiscordTrackerBots/collection/5ceb174a-22cd-452d-b0b6-244471eeca7d))
   * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (59)
   * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-trackers) (5)
