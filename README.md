@@ -207,6 +207,6 @@ Except for data such as general server amount and user amount data that we are a
 # Social Links:
 
 [Reddit](https://www.reddit.com/r/DiscordTrackerBots)  
+[Top.gg](https://top.gg/bot/927613829381259345)  
 [Medium](https://eneskeremaydin.medium.com/cryptocurrency-price-tracker-cryptocurrency-market-cap-tracker-network-gas-fee-tracker-discord-39ca0815e84a)  
 [Google Sites](https://sites.google.com/view/cryptotrackerbots)  
-[Top.gg](https://top.gg/bot/927613829381259345)
