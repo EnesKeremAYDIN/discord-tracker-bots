@@ -2,6 +2,8 @@
 
 ### Do you like the bots listed here? [You can support the developer by donating](https://ekas.link/donate)! If you want to make this kind of bot for a project, contact me on my [Discord server](https://ekas.link/dc).
 
+***
+
 # Contents:
 * [Fear and Greed Index Tracker](https://eneskeremaydin.com.tr/discord-tracker-bots#fear-and-greed-index-tracker)
 * [Bitcoin Dominace Tracker](https://eneskeremaydin.com.tr/discord-tracker-bots#bitcoin-dominace-tracker)
@@ -213,6 +215,8 @@ Information: Any content provided through this website, the Discord bots listed 
 *Donations made to the developer originating from this project are for the purpose of supporting the developer, the donator cannot claim any rights or privileges due to his donation. Donating is entirely at the discretion of the person.
 
 Although the names and logos of the Discord bots belong to the cryptocurrency and/or blockchain network they represent, they have been used without any profit motive, assuming that these names and logos are publicly owned. If you want a content that you hold the copyright of (name, logo, etc.) to be removed from use and/or the Discord bot it is connected to, please contact us. ![mail](mail.jpg)
+
+***
 
 ## Privacy Policy
 
