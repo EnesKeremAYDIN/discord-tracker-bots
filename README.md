@@ -22,7 +22,7 @@
 * [Invite Fear and Greed Index Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=930289127902031973)
 
 ### What does it do?
-* You can follow the Fear and Greed Index of any cryptocurrency (with small delays due to API limits).
+* You can follow the Fear and Greed Index of cryptocurrencies (with small delays due to API limits).
 
 ### Commands:
 * /help: Lists all commands.
@@ -38,37 +38,37 @@
 * /help: Lists all commands.
 * /donate: Donate to the developer.
 
-### Price Tracker Discord Bots:
+## Price Tracker Discord Bots:
 
-#### EUR (€) Price Tracker Discord Bots:
+### EUR (€) Price Tracker Discord Bots:
 * [Invite Bitcoin (BTC) Price (EUR) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939476766546853939)
 * [Invite Ethereum (ETH) Price (EUR) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939528292938174485)
 * [Invite Binance Coin (BNB) Price (EUR) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596315090894899)
 * [Invite Avalanche (AVAX) Price (EUR) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596482934341693)
 * [Invite Solana (SOL) Price (EUR) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939662240305524746)
 
-#### GBP (£) Price Tracker Discord Bots:
+### GBP (£) Price Tracker Discord Bots:
 * [Invite Bitcoin (BTC) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939476785337360454)
 * [Invite Ethereum (ETH) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939528528305741824)
 * [Invite Binance Coin (BNB) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596337152937988)
 * [Invite Avalanche (AVAX) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=941035332688809994)
 * [Invite Solana (SOL) Price (GBP) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939662285419450378)
 
-#### RUB (₽) Price Tracker Discord Bots:
+### RUB (₽) Price Tracker Discord Bots:
 * [Invite (BTC) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939476778710335589)
 * [Invite Ethereum (ETH) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939528407878893639)
 * [Invite Binance Coin (BNB) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596357201690684)
 * [Invite Avalanche (AVAX) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=941035297355989002)
 * [Invite Solana (SOL) Price (RUB) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939662585538678785)
 
-#### TRY (₺) Price Tracker Discord Bots:
+### TRY (₺) Price Tracker Discord Bots:
 * [Invite Bitcoin (BTC) Price (TRY) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939476791523967036)
 * [Invite Ethereum (ETH) Price (TRY) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939528569497997332)
 * [Invite Binance Coin (BNB) Price (TRY) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596365686788176)
 * [Invite Avalanche (AVAX) Price (TRY) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939596525795958825)
 * [Invite Solana (SOL) Price (TRY) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=939662627234258955)
 
-#### USD ($) Price Tracker Discord Bots:
+### USD ($) Price Tracker Discord Bots:
 * [Invite Bitcoin (BTC) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=927613829381259345)
 * [Invite Ethereum (ETH) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=927618897769803887)
 * [Invite Binance Coin (BNB) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=927620486412771338)
@@ -130,7 +130,7 @@
 * [Invite Hive (HIVE) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1028392784677306368)
 * [Invite Ryoshis Vision (RYOSHI) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1095722355503943741)
 
-#### What does it do?
+### What does it do?
 * You can follow the instant price of any cryptocurrency (with small delays due to API limits).
 
 ### Commands:
@@ -140,7 +140,7 @@
 
 ***
 
-### Gas Fee Tracker Discord Bots:
+## Gas Fee Tracker Discord Bots:
 * [Invite Ethereum Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=933700767548866591)
 * [Invite Avalanche C-Chain Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=934034734294634507)
 * [Invite Binance Smart Chain Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=933700773936771072)
@@ -149,7 +149,7 @@
 * [Invite Fantom Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=934034751197696041)
 * [Invite Moonbeam Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=934034767551279114)
 
-#### What does it do?
+### What does it do?
 * You can monitor instant gas fee (with small delays due to API limits) of any network.
 
 ### Commands:
@@ -159,14 +159,14 @@
 
 ***
 
-### Market Cap Tracker Discord Bots:
+## Market Cap Tracker Discord Bots:
 * [Invite Bitcoin (BTC) Market Cap Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=933348242916261918)
 * [Invite Ethereum (ETH) Market Cap Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=933348405240033340)
 * [Invite Binance Coin (BNB) Market Cap Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=933348864742817792)
 * [Invite Avalanche (AVAX) Market Cap Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=938147756088889454)
 * [Invite Solana (SOL) Market Cap Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=938147779023339520)
 
-#### What does it do?
+### What does it do?
 * You can follow the instant market cap of any cryptocurrency (with small delays due to API limits).
 
 ### Commands:
@@ -216,7 +216,7 @@ Except for data such as general server amount and user amount data that we are a
 
 ***
 
-# Social Links:
+## Social Links:
 
 [Reddit](https://www.reddit.com/r/DiscordTrackerBots)  
 [Top.gg](https://top.gg/bot/927613829381259345)  
