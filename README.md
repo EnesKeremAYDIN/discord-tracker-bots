@@ -124,9 +124,6 @@
 * /price: See price.
 * /donate: Donate to the developer.
 
-#### Configurations:
-* ~~If you want the bots to show the instant price value in their names, give the bot "manage username" permission.~~ (This feature is currently unavailable due to Discord API limits, it will be back soon.)
-
 ### Notes:
 * 
 
@@ -149,9 +146,6 @@
 * /gasfee: See Gas Fee.
 * /donate: Donate to the developer!
 
-#### Configurations:
-* ~~If you want the bots to show the instant gas value in their names, give the bot "manage username" permission.~~ (This feature is currently unavailable due to Discord API limits, it will be back soon.)
-
 ### Notes:
 * 
 
@@ -171,9 +165,6 @@
 * /help: Lists all commands.
 * /marketcap: See Market Cap.
 * /donate: Donate to the developer!
-
-#### Configurations:
-* ~~If you want the bots to show the instant market cap value in their names, give the bot "manage username" permission.~~ (This feature is currently unavailable due to Discord API limits, it will be back soon.)
 
 ### Notes:
 * Gas fees are represented by emojis. Meanings of emojis: ⚡ (Fast) - 🚶 (Medium) - 🐢 (Slow) - 👌 (Ideal, the baseFee of the next pending block.)
