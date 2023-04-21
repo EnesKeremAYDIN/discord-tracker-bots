@@ -152,7 +152,7 @@
 * [Invite Moonbeam Gas Fee Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=934034767551279114)
 
 ### What does it do?
-* You can monitor instant gas fee (with small delays due to API limits) of any network.
+* You can follow the instant gas fee of any blockchain (with small delays due to API limits).
 
 ### Commands:
 * /help: Lists all commands.
