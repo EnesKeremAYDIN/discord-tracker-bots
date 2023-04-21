@@ -124,9 +124,6 @@
 * /price: See price.
 * /donate: Donate to the developer.
 
-### Notes:
-* 
-
 ***
 
 ### Gas Fee Tracker Discord Bots:
@@ -145,9 +142,6 @@
 * /help: Lists all commands.
 * /gasfee: See Gas Fee.
 * /donate: Donate to the developer!
-
-### Notes:
-* 
 
 ***
 
