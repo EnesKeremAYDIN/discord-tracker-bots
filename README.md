@@ -3,6 +3,8 @@
 # Do you like the bots listed here? [You can support the developer by donating!](https://ekas.link/donate) If you want to make this kind of bot for a project, contact me on my [Discord server](https://ekas.link/dc).
 
 # Contents:
+* [Fear and Greed Index Tracker](https://eneskeremaydin.com.tr/discord-tracker-bots#fear-and-greed-index-tracker)
+* [Bitcoin Dominace Tracker](https://eneskeremaydin.com.tr/discord-tracker-bots#bitcoin-dominace-tracker)
 * [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (80)
   * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (60)
   * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-trackers) (5)
@@ -15,6 +17,12 @@
 * [Privacy Policy](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#privacy-policy)
 
 # Discord Tracker Bots
+
+### Fear and Greed Index Tracker:
+* [Invite Fear and Greed Index Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=930289127902031973)
+
+### Bitcoin Dominace Tracker:
+* [Invite Bitcoin Dominace Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1098741002430320792)
 
 ### Price Tracker Discord Bots:
 
@@ -106,6 +114,7 @@
 * [Invite Pavia (PAVIA) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=988374783743897600)
 * [Invite ApeCoin (APE) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1028392778218094592)
 * [Invite Hive (HIVE) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1028392784677306368)
+* [Invite Ryoshis Vision (RYOSHI) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1095722355503943741)
 
 #### What does it do?
 * You can follow the instant price of any cryptocurrency (with small delays due to API limits).
