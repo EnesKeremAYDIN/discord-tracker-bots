@@ -26,6 +26,8 @@
 * /help: Lists all commands.
 * /donate: Donate to the developer.
 
+***
+
 ## Bitcoin Dominace Tracker:
 * [Invite Bitcoin Dominace Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1098741002430320792)
 
@@ -35,6 +37,8 @@
 ### Commands:
 * /help: Lists all commands.
 * /donate: Donate to the developer.
+
+***
 
 ## Price Tracker Discord Bots:
 
