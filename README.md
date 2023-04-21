@@ -16,8 +16,6 @@
 * [Terms of Service](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#terms-of-service)
 * [Privacy Policy](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#privacy-policy)
 
-# Discord Tracker Bots
-
 ## Fear and Greed Index Tracker:
 * [Invite Fear and Greed Index Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=930289127902031973)
 
