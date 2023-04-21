@@ -18,11 +18,25 @@
 
 # Discord Tracker Bots
 
-### Fear and Greed Index Tracker:
+## Fear and Greed Index Tracker:
 * [Invite Fear and Greed Index Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=930289127902031973)
 
-### Bitcoin Dominace Tracker:
+### What does it do?
+* You can follow the Fear and Greed Index of any cryptocurrency (with small delays due to API limits).
+
+### Commands:
+* /help: Lists all commands.
+* /donate: Donate to the developer.
+
+## Bitcoin Dominace Tracker:
 * [Invite Bitcoin Dominace Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1098741002430320792)
+
+### What does it do?
+* You can follow the Bitcoin Dominace of cryptocurrency market cap (with small delays due to API limits).
+
+### Commands:
+* /help: Lists all commands.
+* /donate: Donate to the developer.
 
 ### Price Tracker Discord Bots:
 
