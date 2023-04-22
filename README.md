@@ -1,6 +1,6 @@
 # Cryptocurrency Fear and Greed Index Tracker, Bitcoin Dominace Tracker, Cryptocurrency Price Tracker, Cryptocurrency Market Cap Tracker, Blockchain Gas Fee Tracker Discord bots.
 
-##### Do you like the bots listed here? [You can support the developer by donating](https://ekas.link/donate)! If you want to make this kind of bot for a project, contact me on my [Discord server](https://ekas.link/dc).
+##### Do you like the bots listed here? You can support the developer by  [donating](https://ekas.link/donate)! If you want to make this kind of bot for a project, contact me on my [Discord server](https://ekas.link/dc).
 
 ***
 
