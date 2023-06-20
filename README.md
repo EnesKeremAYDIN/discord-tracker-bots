@@ -5,16 +5,16 @@
 ***
 
 # Contents:
-* [Fear and Greed Index Tracker](https://eneskeremaydin.com.tr/discord-tracker-bots#fear-and-greed-index-tracker)
-* [Bitcoin Dominace Tracker](https://eneskeremaydin.com.tr/discord-tracker-bots#bitcoin-dominace-tracker)
-* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#price-trackers) (80)
-  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-trackers) (60)
-  * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-trackers) (5)
-  * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-trackers) (5)
-  * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-trackers) (5)
-  * [TRY (₺)](https://eneskeremaydin.com.tr/discord-tracker-bots#try--price-trackers) (5)
-* [Gas Fee Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#gas-fee-trackers) (7)
-* [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-trackers) (5)
+* [Fear and Greed Index Tracker](https://eneskeremaydin.com.tr/discord-tracker-bots/#fear-and-greed-index-tracker)
+* [Bitcoin Dominace Tracker](https://eneskeremaydin.com.tr/discord-tracker-bots/#bitcoin-dominace-tracker)
+* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots/#price-tracker-discord-bots) (80)
+  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-tracker-discord-bots) (60)
+  * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-tracker-discord-bots) (5)
+  * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-tracker-discord-bots) (5)
+  * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-tracker-discord-bots) (5)
+  * [TRY (₺)](https://eneskeremaydin.com.tr/discord-tracker-bots#try--price-tracker-discord-bots) (5)
+* [Gas Fee Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#gas-fee-tracker-discord-bots) (7)
+* [Market Cap Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots#market-cap-tracker-discord-bots) (5)
 * [Terms of Service](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#terms-of-service)
 * [Privacy Policy](https://github.com/EnesKeremAYDIN/discord-tracker-bots/blob/main/README.md#privacy-policy)
 
