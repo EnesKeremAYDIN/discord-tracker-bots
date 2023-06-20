@@ -88,7 +88,7 @@
 * [Invite Polkadot (DOT) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=928052222858780693)
 * [Invite Polygon (MATIC) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=928052266227892235)
 * [Invite Terra (LUNA) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=928065226413322250)
-* [Invite Terra Luna Classic (LUNAC) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=986656019922948186
+* [Invite Terra Luna Classic (LUNAC) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=986656019922948186)
 * [Invite Uniswap (UNI) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=928103543557210142)
 * [Invite Chiliz (CHZ) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=930892405232783380)
 * [Invite Fantom (FTM) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=933324003274264576)
