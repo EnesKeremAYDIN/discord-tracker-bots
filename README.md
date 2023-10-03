@@ -7,8 +7,8 @@
 # Contents:
 * [Fear and Greed Index Tracker](https://eneskeremaydin.com.tr/discord-tracker-bots/#fear-and-greed-index-tracker)
 * [Bitcoin Dominace Tracker](https://eneskeremaydin.com.tr/discord-tracker-bots/#bitcoin-dominace-tracker)
-* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots/#price-tracker-discord-bots) (46)
-  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-tracker-discord-bots) (26)
+* [Price Tracker Bots](https://eneskeremaydin.com.tr/discord-tracker-bots/#price-tracker-discord-bots) (45)
+  * [USD ($)](https://eneskeremaydin.com.tr/discord-tracker-bots#usd--price-tracker-discord-bots) (25)
   * [EUR (€)](https://eneskeremaydin.com.tr/discord-tracker-bots#eur--price-tracker-discord-bots) (5)
   * [GBP (£)](https://eneskeremaydin.com.tr/discord-tracker-bots#gbp--price-tracker-discord-bots) (5)
   * [RUB (₽)](https://eneskeremaydin.com.tr/discord-tracker-bots#rub--price-tracker-discord-bots) (5)
@@ -100,7 +100,6 @@
 * [Invite BitTorrent Old (BTTOLD) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=944684550754271302)
 * [Invite Filecoin (FIL) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=944684653355364383)
 * [Invite ApeCoin (APE) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1028392778218094592)
-* [Invite Ryoshis Vision (RYOSHI) Price (USD) Tracker](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=1095722355503943741)
 
 ### What does it do?
 * You can follow the instant price of any cryptocurrency (with small delays due to API limits).
