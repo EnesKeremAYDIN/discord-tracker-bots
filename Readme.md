@@ -35,4 +35,5 @@ Although the names and logos of the Discord bots belong to the cryptocurrency an
 
 ## Privacy Policy
 
-Except for data such as general server amount and user amount data that we are allowed to access by Discord and that we use to provide statistics, it will not be used in any way, anywhere, since we do not access or store your other and personal data.
+Our bots temporarily process server and member counts provided by Discord's APIs for the purpose of generating server and user statistics. 
+Additionally, we utilize Discord's slash commands to process commands in real-time without collecting user data, these data are never shared with or stored by third parties under any circumstances.
